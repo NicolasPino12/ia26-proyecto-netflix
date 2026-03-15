@@ -1,9 +1,10 @@
 import os
 import json
-import requests
+import requests # pyright: ignore[reportMissingModuleSource]
+
 from logs import registro_log
-from config import ACCESS_TOKEN
-from clean import json_to_csv
+from config import ACCESS_TOK
+from clean import json_to_csv0
 
 def api_request(url):
     headers = {
