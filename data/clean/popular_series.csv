@@ -1,0 +1,21 @@
+id,title,genre_ids,popularity,vote_average
+224372,,"['Drama', 'Unknown', 'Unknown']",318.2584,8.486
+549,,"['Crime', 'Drama']",249.3908,7.34
+94722,,['Unknown'],247.1589,6.8
+79744,,"['Crime', 'Drama', 'Comedy']",243.8012,8.535
+1416,,['Drama'],225.2894,8.21
+1622,,"['Drama', 'Mystery', 'Unknown']",224.199,8.305
+2734,,"['Crime', 'Drama', 'Mystery']",203.121,7.939
+4614,,"['Crime', 'Drama', 'Unknown']",200.1452,7.625
+456,,"['Family', 'Animation', 'Comedy']",194.6398,8.012
+91239,,['Drama'],192.0515,8.066
+66732,,"['Unknown', 'Mystery', 'Unknown']",182.365,8.579
+95479,,"['Animation', 'Unknown', 'Unknown']",177.3329,8.6
+1434,,"['Animation', 'Comedy']",165.9906,7.391
+1399,,"['Unknown', 'Drama', 'Unknown']",165.6766,8.459
+22980,,"['Unknown', 'Comedy']",163.8216,5.0
+19530,,"['Unknown', 'Drama']",160.7133,6.9
+14424,,"['Unknown', 'Comedy', 'Drama']",154.4073,6.2
+2261,,['Unknown'],152.9153,7.5
+65733,,"['Unknown', 'Animation', 'Comedy', 'Unknown', 'Unknown', 'Family']",152.7415,8.051
+4057,,"['Crime', 'Drama', 'Mystery']",151.6245,8.297
