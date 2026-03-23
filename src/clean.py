@@ -43,11 +43,11 @@ def json_to_csv(file_path, output_path, genres_path, name_key):
 
 movie_input = "data/raw/popular_movies.json"
 movie_output = "data/clean/popular_movies.csv"
-movie_genres = "data/raw/movie_genres.json"
+movie_genres = "data/raw/movie_genres.j son"
 json_to_csv(movie_input, movie_output, movie_genres, "title")
 
 # series
-series_input = "data/raw/popular_series.json"
+series_input = "data/raw/popular_series.json"                                                           
 series_output = "data/clean/popular_series.csv"
 series_genres = "data/raw/series_genre.json"
 json_to_csv(series_input, series_output, series_genres, "name")
